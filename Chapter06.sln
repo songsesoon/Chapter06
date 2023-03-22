@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapByVolue", "SwapByVolue\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapByRef", "SwapByRef\SwapByRef.csproj", "{C63D2C3B-F1B1-4F6D-B01F-9815E8C3A006}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefReturn", "RefReturn\RefReturn.csproj", "{595092E1-B302-4FD6-A3D0-C9AB9E5D64B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C63D2C3B-F1B1-4F6D-B01F-9815E8C3A006}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C63D2C3B-F1B1-4F6D-B01F-9815E8C3A006}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C63D2C3B-F1B1-4F6D-B01F-9815E8C3A006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595092E1-B302-4FD6-A3D0-C9AB9E5D64B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595092E1-B302-4FD6-A3D0-C9AB9E5D64B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595092E1-B302-4FD6-A3D0-C9AB9E5D64B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595092E1-B302-4FD6-A3D0-C9AB9E5D64B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
